@@ -19,7 +19,7 @@ Work experience
 * 2021/07-2023/06: Senior Algorithm Researcher 
   * Tencent
 
-* 2021/06-: Research Scientist
+* 2023/06-: Research Scientist
   * Shenzhen Institute of Big Data
   
 
